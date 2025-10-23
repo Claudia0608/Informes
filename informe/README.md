@@ -4,16 +4,10 @@
 ---
 
 ## ESTRUCTURA DE PROYECTO
-ies.tierno 
-├── comandos │ 
-├── EjecutarComandos.java 
-│ └── Salida.java 
-├── informe 
-│ ├── Markdown.java 
-│ └── CreadorInforme.java 
-└── Main.java
----
 
+<img src = "/informe/estructura.jpg" alt="Foto bonita" width="300">
+
+---
 ## CLASES
 ### `EJECUTARCOMANDOS.JAVA`
 * USA RUNTIME.GETRUNTIME().EXEC(COMANDO) PARA LANZAR EL PROCESO.
